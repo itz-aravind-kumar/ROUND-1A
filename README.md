@@ -1,4 +1,4 @@
-# Adobe Hackathon Round 1A – Heading Extractor
+# Adobe Hackathon Round 1A - Heading Extractor
 
 This solution extracts structured outlines from PDFs using a hybrid rule-based method.
 
