@@ -1,0 +1,45 @@
+{
+  "title": "Persistent chat history",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Clear chat history",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Copy chat history",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Change the playback speed",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Custom voice for read-aloud feature",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Remove files from a collection",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Request access in Acrobat",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "send a request from?",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "What happens if my request is declined?",
+      "page": 16
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Share",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "PDF sharing options",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Mark up text",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Highlight, strikethrough, or underline text",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "comment",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Using Select Text Tool",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Using Markup Tool",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Change the color of the markup",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Delete The Markup",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Add a comment to the markup",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Insert text",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Export text edits",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Share a PDF for review",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Reviewer experience",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Send personalized invitations for commenting",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Initiate a review using @mention in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Reviewer experience",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Initiate SharePoint-based shared review",
+      "page": 14
+    }
+  ]
+}

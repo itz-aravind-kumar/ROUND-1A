@@ -1,0 +1,140 @@
+{
+  "title": "\u26a1",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Operating System in One Video",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1. What is an Operating System & Types of OS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. Difference between Multiprogramming, Multiprocess,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Multitasking, and Multithreading",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3. Process vs Threads vs Programs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4. Various Process States",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5. CPU scheduling Algorithms",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1. First-Come, First-Served (FCFS):",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3. Round Robin (RR):",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4. Priority Scheduling:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "5. Multilevel Queue Scheduling:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "6. Critical section Problem",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "7. Process synchronisation",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "8. Process Synchronisation Mechanisms",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Hold and Wait",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "10. Deadlock Handling Techniques",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "11. Memory Management",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1. Fixed Partitioning:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "2. Dynamic Partitioning:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "12. Partition and Memory allocation",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "14. Virtual Memory",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "15. Page replacement algorithms",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "1. First-In-First-Out Page Replacement Algorithm",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "2. Optimal Page replacement",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3. Least Recently Used",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "18. Disk Management",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "19. Disk scheduling algorithms",
+      "page": 15
+    }
+  ]
+}

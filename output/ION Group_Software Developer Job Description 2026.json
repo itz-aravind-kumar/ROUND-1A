@@ -1,0 +1,50 @@
+{
+  "title": "Our company",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Our company",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Your role",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Your Contribution",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Design and Deliver Innovative Solutions that:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Tackle Complex Challenges:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Bring Ideas & Technical Innovation:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Your Growth",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "In-depth Knowledge Development:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Cultural and Personal Growth:",
+      "page": 2
+    }
+  ]
+}
